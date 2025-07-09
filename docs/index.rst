@@ -7,8 +7,6 @@ The **TomTom MyDrive Connect Download** software is your one-stop solution for k
 
 If you’re wondering where to begin with your updates, this comprehensive guide will walk you through everything you need to know.
 
----
-
 Why You Need TomTom MyDrive Connect
 ------------------------------------
 
